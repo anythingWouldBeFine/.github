@@ -41,3 +41,6 @@ The moment there is a level of stability and we have enough user feedback we wil
 
 # Open Source Contribution
 This project is open source, and we welcome contributions from developers, designers, psychologists, and enthusiasts.
+
+# Liscence
+Our project will be using [GNU General Public License Version 3](https://www.gnu.org/licenses/gpl-3.0.html) to ensure the safety of our users, transparency, and free distribution of our code.
