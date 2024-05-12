@@ -36,5 +36,8 @@ We plan on developing an extension and a possible way to track the completion of
 ## Phase 3: Dedicated Mastodon Server
 After getting the system running or securing enough funds we will create our mastodon instance with the hope of it being a haven to share personal growth, discuss bugs and feature requests, and redefine what social media should be used for
 
+## Phase 4: Expansion
+The moment there is a level of stability and we have enough user feedback we will slowly add more tasks and technology for detecting tasks while updating our code and ensuring there is descriptive documentation and changelog for easy onboarding
+
 # Open Source Contribution
 This project is open source, and we welcome contributions from developers, designers, psychologists, and enthusiasts.
